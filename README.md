@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+## Contact information
+
+| Type | Value | 
+|-----------|-----------|  
+| Phone | +7 916 070 56 87 | 
+| Email | maksim.aisin@mail.ru |
+| Discord | Maksim Aisin (@TavaniX) |
+
+## Skills
+- HTML5
+- CSS3
+- JavaScript
+- Git, GitHub
+- React (with Redux)
+- SQL (MySQL, PostgreSQL)
+- Node JS (beginner)
+- Understanding of software development lifecycle
+
 <!--
 **TavaniX/TavaniX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
