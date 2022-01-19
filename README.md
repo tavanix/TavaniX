@@ -4,8 +4,8 @@
 
 | Type | Value | 
 |-----------|-----------|  
-| Phone | +7 916 070 56 87 | 
 | Email | maksim.aisin@mail.ru |
+| Telegram | @TavaniX |
 | Discord | Maksim Aisin (@TavaniX) |
 
 ## Skills
