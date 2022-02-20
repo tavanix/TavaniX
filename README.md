@@ -7,11 +7,10 @@ Email: maksim.aisin@mail.ru
 Discord: Maksim Aisin (@TavaniX)
 
 ## Skills
-🌱 HTML5 / CSS3
-🌱 JavaScript
+🌱 HTML5 / CSS3 / JS
 🌱 Git, GitHub
 🌱 React (with Redux)
-🌱 SQL (MySQL, PostgreSQL)
+🌱 SQL (MySQL, PostgreSQL, MongoDB)
 🌱 Node JS (beginner)
 
 <!--
