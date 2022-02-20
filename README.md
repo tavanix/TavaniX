@@ -1,21 +1,17 @@
 ### Hi there 👋
 
-## Contact information
+## 📫 How to reach me:
 
-| Type | Value | 
-|-----------|-----------|  
-| Email | maksim.aisin@mail.ru |
-| Discord | Maksim Aisin (@TavaniX) |
+Email: maksim.aisin@mail.ru
+Discord: Maksim Aisin (@TavaniX)
 
 ## Skills
-- HTML5
-- CSS3
-- JavaScript
-- Git, GitHub
-- React (with Redux)
-- SQL (MySQL, PostgreSQL)
-- Node JS (beginner)
-- Understanding of software development lifecycle
+🌱 HTML5 / CSS3
+🌱 JavaScript
+🌱 Git, GitHub
+🌱 React (with Redux)
+🌱 SQL (MySQL, PostgreSQL)
+🌱 Node JS (beginner)
 
 <!--
 **TavaniX/TavaniX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
