@@ -5,7 +5,6 @@
 | Type | Value | 
 |-----------|-----------|  
 | Email | maksim.aisin@mail.ru |
-| Telegram | @TavaniX |
 | Discord | Maksim Aisin (@TavaniX) |
 
 ## Skills
