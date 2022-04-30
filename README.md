@@ -13,6 +13,9 @@ Discord: Maksim Aisin (@TavaniX)
 🌱 SQL (MySQL, PostgreSQL, MongoDB)
 🌱 Node JS (beginner)
 
+https://www.codewars.com/users/TavaniX/badges/smal
+
+
 <!--
 **TavaniX/TavaniX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
