@@ -8,16 +8,12 @@ Discord: Maksim Aisin (@TavaniX)
 
 ## Skills
 🌱 HTML5 / CSS3 / JS
-
 🌱 Git, GitHub
-
 🌱 React (with Redux)
-
 🌱 SQL (MySQL, PostgreSQL, MongoDB)
-
 🌱 Node JS (beginner)
 
-![codewars](https://www.codewars.com/users/TavaniX/badges/small)
+![codewars](https://www.codewars.com/users/TavaniX/badges/large)
 
 
 <!--
