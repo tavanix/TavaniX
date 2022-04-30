@@ -13,7 +13,7 @@ Discord: Maksim Aisin (@TavaniX)
 🌱 SQL (MySQL, PostgreSQL, MongoDB)
 🌱 Node JS (beginner)
 
-[codewars](https://www.codewars.com/users/TavaniX/badges/small)
+![codewars](https://www.codewars.com/users/TavaniX/badges/large)
 
 
 <!--
