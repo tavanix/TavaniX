@@ -12,8 +12,7 @@ Discord: Maksim Aisin (@TavaniX)
 🌱 React (with Redux)
 🌱 SQL (MySQL, PostgreSQL, MongoDB)
 🌱 Node JS (beginner)
-
-![codewars](https://www.codewars.com/users/TavaniX/badges/micro)
+🌱 ![codewars](https://www.codewars.com/users/TavaniX/badges/micro)
 
 
 <!--
