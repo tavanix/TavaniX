@@ -4,7 +4,7 @@
 
 Email: maksim.aisin@mail.ru
 
-Discord: Maksim Aisin (@TavaniX)
+Discord: TavaniX#1648
 
 ## Skills
 🌱 HTML5 / CSS3 / JS
