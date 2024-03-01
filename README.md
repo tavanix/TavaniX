@@ -10,7 +10,7 @@ Discord: TavaniX#1648
 🌱 HTML5 / CSS3 / JS
 🌱 Git, GitHub
 🌱 React
-🌱 SQL (MySQL, PostgreSQL, MongoDB)
+🌱 SQL (MySQL, PostgreSQL)
 
 ![codewars](https://www.codewars.com/users/TavaniX/badges/micro)
 
