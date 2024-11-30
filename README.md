@@ -7,14 +7,15 @@ Email: maksim.aisin@mail.ru
 Discord: tavaniX#1648
 Telegram: @tavanix
 
-## Skills
-🌱 HTML5 / CSS3 / JS
-🌱 Git, GitHub
-🌱 TypeScript
-🌱 React 18
-🌱 SQL (MySQL, PostgreSQL)
+## Skills:
+✨ HTML5 / CSS3 / JS
+✨ Git, GitHub
+✨ React 18
+✨ SQL (MySQL, PostgreSQL, Oracle)
 
-🌱 I'm currently learning NextJS
+## I'm currently learning:
+🌱 TypeScript
+🌱 NextJS
 
 ![codewars](https://www.codewars.com/users/TavaniX/badges/micro)
 
